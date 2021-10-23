@@ -1,3 +1,5 @@
+alert('Esse é o meu crachá criado na NLW Heat\nObrigado por ter acessado!')
+
 const linksSocialMedia = {
   github: 'davimcostaa',
   youtube: 'UC7FBZVd58jS6cFWiNyaweRQ',
